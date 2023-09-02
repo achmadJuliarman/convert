@@ -1,0 +1,12 @@
+{
+    "name": "man/convertsymbols",
+    "description": "convert symbol agak URL able",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Achmad Juliarman",
+            "email": "acmadjuliarman@gmail.com"
+        }
+    ],
+    "require": {}
+}
