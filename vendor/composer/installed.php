@@ -3,7 +3,7 @@
         'name' => 'man/convertsymbols',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '62c3a8b91d8d3092c6a0715d642d7df0eb628ce0',
+        'reference' => 'd009e8b95fcd2d4326a5dfce6b41387b673f820a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'man/convertsymbols' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '62c3a8b91d8d3092c6a0715d642d7df0eb628ce0',
+            'reference' => 'd009e8b95fcd2d4326a5dfce6b41387b673f820a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

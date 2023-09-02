@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit9fd6eb94f0e2505f19dc5eadd2cbce4d
 {
     public static $prefixLengthsPsr4 = array (
-        'a' => 
+        'G' => 
         array (
-            'app\\models\\' => 11,
+            'GexConvert\\' => 11,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'app\\models\\' => 
+        'GexConvert\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'app\\models\\' => array($baseDir . '/src'),
+    'GexConvert\\' => array($baseDir . '/src'),
 );
